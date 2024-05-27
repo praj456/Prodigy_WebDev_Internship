@@ -62,21 +62,8 @@ async function checkWeather(cityName) {
   }
 
 
-  // console.log(result.weather[0].main)
 }
 
 
 
-// weather.firstChild.innerHTML = `<img src=\"images/${result.weather[0].main}.png\" class=\"weather-icon\">`
 
-// console.log(weather.firstChild)
-// console.log(cityName.value)
-// const cityName = 'shimoga';
-// console.log(typeof result.main.pressure);
-// console.log(result.sys['country']);
-// console.log(result.weather[0].main);
-// console.log(result.wind.deg);
-
-
-
-// name, sys {country}, weather[{0}] -> main, wind{ speed,deg }, main -> humidity, pressure, temp
